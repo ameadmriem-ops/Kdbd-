@@ -1,0 +1,6 @@
+{
+  "name": "BLACK ANIME",
+  "description": "تطبيق BLACK ANIME لمشاهدة وتنزيل حلقات الأنمي والمانجا ومتابعة جدول المواسم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
